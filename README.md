@@ -1,6 +1,8 @@
 ## Hi there 👋
 My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal.
-📫 How to reach me: chiulimmike@gmail.com
+<h3>
+  📫 How to reach me: chiulimmike@gmail.com
+</h3>
 
 ## Skills and Experience
 <h3 align="left">
