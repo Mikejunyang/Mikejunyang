@@ -116,4 +116,8 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikejunyang)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/mike-jun-yang-chiu-lim/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mike-jun-yang-chiu-lim/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+</p>
