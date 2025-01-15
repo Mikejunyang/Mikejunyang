@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal.
-- Fluent in English, French, Mandarin and Creole
+- Fluent in Mauritian Creole, English, French, and Mandarin
 - 🌱 I’m currently in my last year of CS at LaSalle College
 - 📫 How to reach me: chiulimmike@gmail.com
 
