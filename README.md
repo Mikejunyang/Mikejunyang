@@ -5,6 +5,11 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 - 📫 How to reach me: chiulimmike@gmail.com
 
 ## Skills and Experience
+-Time Management
+-Project Management
+-Communication
+-Persuasion
+
 <h3 align="left">
   Languages and Tools:
 </h3>
