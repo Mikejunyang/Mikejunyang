@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mike Jun Yang Chiu Lim from Mauritius. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal. 
+My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal. 
 
 ## Skills and Experience
 <h3 align="left">
