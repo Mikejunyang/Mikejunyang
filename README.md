@@ -20,6 +20,11 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 <a href="https://www.w3schools.com/cs/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a>
+
+<!-- C++ -->
+<a href="https://www.w3schools.com/cpp//" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/> 
+</a>
   
 <!--FireBase-->
 <a href="https://firebase.google.com/" target="_blank">
