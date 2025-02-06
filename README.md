@@ -82,7 +82,7 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 </a>
 
 <!-- Docker -->
-<a href="https://reactjs.org/" target="_blank"> 
+<a href="https://www.docker.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="react" width="40" height="40"/> 
 </a>
 
