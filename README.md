@@ -36,6 +36,11 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
 
+<!--IntelliJ-->
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA" width="40" height="40" />
+</a>
+
 <!--JavaScript-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
