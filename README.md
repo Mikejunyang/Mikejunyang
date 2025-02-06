@@ -112,6 +112,11 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🇲🇺🦤. I am a junior Fron
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a>
 
+<!--DBeaver-->
+<a href="https://dbeaver.io/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
