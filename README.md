@@ -14,10 +14,7 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 - Communication
 - Persuasion
 
-<h3 align="left">
-  Languages and Tools:
-</h3>
-
+## Languages and Tools:
 
 <p align="left"> 
 <!-- C# -->
@@ -145,6 +142,7 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android-ui-ux" width="40" height="40"/> 
 </a>
 
+## :zap: Github Stats :zap:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikejunyang)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikejunyang&theme=github_dark)
 
