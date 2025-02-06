@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F7A4&center=true&vCenter=true&width=500&lines=Front-End+Developer/Back-End+Developper;Always+learning+new+things;Passionate+about+technology" alt="Typing SVG" />
 </div>
 
-My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal.
+My name is Mike Jun Yang Chiu Lim from Mauritius🇲🇺🦤. I am a junior Front-End Developer and currently in my last semester at Collège LaSalle in Montréal.
 - Fluent in Mauritian Creole, English, French, and Mandarin
 - 🌱 I’m currently in my last year of CS at LaSalle College
 - 📫 How to reach me: chiulimmike@gmail.com
