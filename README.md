@@ -146,6 +146,13 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🦤. I am a junior Front-End De
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikejunyang)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mikejunyang&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mikejunyang&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mikejunyang&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mikejunyang&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mikejunyang&theme=github_dark)
 
 <h2>⚡️ Where to find me</h2>
 <p>
