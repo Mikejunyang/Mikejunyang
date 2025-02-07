@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F7A4&center=true&vCenter=true&width=500&lines=Front-End/Back-End/Full-Stack+Developer;Always+learning+new+things;Passionate+about+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F7A4&center=true&vCenter=true&width=500&lines=Front-End/Back-End/Full-Stack+Developer;Always+learning+new+things;Passionate+about+technology;傻逼" alt="Typing SVG" />
 </div>
 
 My name is Mike Jun Yang Chiu Lim from Mauritius🇲🇺🦤. I am a junior Front-End, Back-End and Full-Stack Developer and currently in my last semester at Collège LaSalle in Montréal.
