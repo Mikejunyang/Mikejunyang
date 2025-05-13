@@ -92,6 +92,11 @@ My name is Mike Jun Yang Chiu Lim from Mauritius🇲🇺🦤. I am a junior Fron
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a>
 
+<!-- Vue -->
+<a href="https://vuejs.org//" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="react" width="40" height="40"/> 
